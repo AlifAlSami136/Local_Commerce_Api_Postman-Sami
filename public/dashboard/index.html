@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Commerce Role Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/dashboard/styles.css" />
+</head>
+<body>
+  <div class="backdrop" aria-hidden="true"></div>
+
+  <header class="topbar">
+    <div class="brand-block">
+      <p class="brand">Commerce Lab</p>
+      <h1>Role-Based Live Dashboard</h1>
+      <p class="subtitle">Separate CU / DL / AD / SA workspaces — each role keeps its own session and actions.</p>
+    </div>
+    <div class="session" id="sessionPanel">
+      <div class="status-pill" id="apiStatus">Checking API…</div>
+      <div id="activeSession" class="user-badge">Select a role section below to connect.</div>
+    </div>
+  </header>
+
+  <main class="layout">
+    <section class="role-nav" id="roleNav" aria-label="Role sections"></section>
+
+    <section class="summary" id="summarySection">
+      <article class="stat">
+        <span class="stat-label">Active role</span>
+        <strong id="activeRoleValue">—</strong>
+      </article>
+      <article class="stat">
+        <span class="stat-label">Seed run</span>
+        <strong id="seedRunValue">—</strong>
+      </article>
+      <article class="stat">
+        <span class="stat-label">Seeded / Created</span>
+        <strong id="countsPair">0 / 0</strong>
+      </article>
+      <article class="stat">
+        <span class="stat-label">Last refresh</span>
+        <strong id="refreshedAt">—</strong>
+      </article>
+    </section>
+
+    <section class="workspace" id="workspace">
+      <div class="workspace-head">
+        <div>
+          <h2 id="sectionTitle">Role workspace</h2>
+          <p class="meta" id="sectionMeta">Choose CU, DL, AD, or SA.</p>
+        </div>
+        <label class="auto-refresh">
+          <input type="checkbox" id="autoRefresh" />
+          Auto-refresh every 5s
+        </label>
+      </div>
+
+      <form id="roleLoginForm" class="login-form role-login">
+        <label>
+          <span>Email</span>
+          <input id="email" type="email" required />
+        </label>
+        <label>
+          <span>Password</span>
+          <input id="password" type="password" required />
+        </label>
+        <button type="submit" id="connectBtn">Connect role</button>
+        <button type="button" class="ghost" id="disconnectBtn">Disconnect</button>
+      </form>
+
+      <div class="action-tabs" id="actionTabs" role="tablist" aria-label="Actions"></div>
+      <div class="action-grid">
+        <form id="actionForm" class="action-form"></form>
+        <aside class="activity">
+          <div class="activity-head">
+            <h3>Activity output</h3>
+            <button type="button" class="ghost tiny" id="clearActivity">Clear</button>
+          </div>
+          <pre id="activityLog">Connect a role section, then run an action.</pre>
+        </aside>
+      </div>
+    </section>
+
+    <section class="controls">
+      <div class="entity-tabs" id="entityTabs" role="tablist" aria-label="Entities"></div>
+      <div class="filters">
+        <div class="segmented" role="group" aria-label="Data origin">
+          <button type="button" class="seg active" data-origin="all">All</button>
+          <button type="button" class="seg" data-origin="seeded">Seeded</button>
+          <button type="button" class="seg" data-origin="created">Created</button>
+        </div>
+        <input id="searchInput" type="search" placeholder="Filter rows…" />
+        <button type="button" id="refreshBtn" class="ghost">Refresh</button>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="panel-head">
+        <div>
+          <h2 id="entityTitle">Data table</h2>
+          <p id="entityMeta" class="meta">Connect to load CSV snapshot.</p>
+        </div>
+        <div class="legend">
+          <span><i class="dot seeded"></i> Seeded</span>
+          <span><i class="dot created"></i> Created</span>
+        </div>
+      </div>
+      <div class="table-wrap">
+        <table id="dataTable">
+          <thead></thead>
+          <tbody></tbody>
+        </table>
+        <p id="emptyState" class="empty hidden">No rows match this view.</p>
+      </div>
+    </section>
+
+    <section class="counts-grid" id="countsGrid"></section>
+  </main>
+
+  <footer class="footer">
+    <span>CU Customer · DL Dealer · AD Admin · SA Super Admin</span>
+    <a href="/health" target="_blank" rel="noreferrer">/health</a>
+  </footer>
+
+  <div id="toast" class="toast hidden" role="status"></div>
+  <script src="/dashboard/app.js"></script>
+</body>
+</html>

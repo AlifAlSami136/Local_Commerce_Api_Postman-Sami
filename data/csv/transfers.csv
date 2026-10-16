@@ -1,0 +1,4 @@
+id,product_id,from_dealer_id,to_dealer_id,quantity,status,notes,created_by,created_at,seed_run
+trn_e791f86f62,prd_87da062537,dlr_2987e9a9d4,dlr_f55127070b,5,pending,Transfer seeded for run dd3e1116,usr_58e4538300,2026-10-16T15:28:31.559Z,dd3e1116
+trn_b90b2a5e6a,prd_c6f3a83752,dlr_2987e9a9d4,dlr_f55127070b,3,completed,Transfer seeded for run dd3e1116,usr_58e4538300,2026-10-16T15:28:31.559Z,dd3e1116
+trn_75e00a27a1,prd_ebd8a15bf6,dlr_162d26f653,dlr_2987e9a9d4,4,completed,Transfer seeded for run dd3e1116,usr_58e4538300,2026-10-16T15:28:31.559Z,dd3e1116

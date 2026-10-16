@@ -1,23 +1,23 @@
 {
-  "name": "local-commerce-api",
+  "name": "sqa_learning_batch",
   "version": "1.0.0",
-  "description": "Local commerce API for QA testing — CSV-backed DB, JSON seeds, JWT auth",
-  "main": "src/server.js",
-  "scripts": {
-    "seed": "node scripts/seed.js",
-    "prestart": "npm run seed",
-    "start": "node src/server.js",
-    "predev": "npm run seed",
-    "dev": "node --watch src/server.js"
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mahbub091/SQA_Learning_Batch.git"
   },
-  "keywords": ["api", "csv", "commerce", "postman", "qa", "jwt"],
-  "license": "MIT",
-  "dependencies": {
-    "bcryptjs": "^3.0.2",
-    "cors": "^2.8.5",
-    "dotenv": "^16.5.0",
-    "express": "^5.1.0",
-    "jsonwebtoken": "^9.0.2",
-    "uuid": "^11.1.0"
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mahbub091/SQA_Learning_Batch/issues"
+  },
+  "homepage": "https://github.com/Mahbub091/SQA_Learning_Batch#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.64.0",
+    "@types/node": "^26.6.5"
   }
 }

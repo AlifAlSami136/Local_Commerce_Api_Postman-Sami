@@ -1,0 +1,9 @@
+id,email,password,password_hash,first_name,last_name,role,city,created_at,seed_run
+usr_58e4538300,superadmin@commerce.local,Super@123,$2b$10$DqLFkYrD1TfRKu4o9EbvZ.3gqsXxqF/lxIGinByMRc6W2X.v5pEmi,Super,Admin,super_admin,Austin,2026-10-16T15:28:31.559Z,dd3e1116
+usr_4e92a1e47a,admin@commerce.local,Admin@123,$2b$10$Kaf/5mQiY0HeAiz.mhOISu0JDvc35XMgFh21uU6sBfY/4V8tFvH6.,Admin,User,admin,Dhaka,2026-10-16T15:28:31.559Z,dd3e1116
+usr_68a8b94d23,customer@commerce.local,Password@123,$2b$10$gHkkXAe2ymKB6C.N5XbJZ.LOR1aoXHiAZ9OQVAvriwkSF71.K9FFS,Customer,Demo,customer,Austin,2026-10-16T15:28:31.559Z,dd3e1116
+usr_061ffca331,dealer@commerce.local,Password@123,$2b$10$wPxCmUdhNSVvmFL32Rkxx.XVj8aioiYle7N7UWEx5wS1CUfVqLYwm,Dealer,Demo,dealer,Seoul,2026-10-16T15:28:31.559Z,dd3e1116
+usr_ff312a0c5b,kai.silva.dd3e11164@example.com,Password@123,$2b$10$8ezPSijHPlNtlFVjrzfKH.fSCjLl3YIsrTmYNM.HFtZy7aKFtdnJ.,Kai,Silva,customer,Lisbon,2026-10-16T15:28:31.559Z,dd3e1116
+usr_4a9ac570a4,kai.brooks.dd3e11165@example.com,Password@123,$2b$10$qVSL.qB0skRPIMnvDbnFUe3pEjwjpk1R4/7NDSm2G0JyBzp2Vr6O.,Kai,Brooks,customer,Berlin,2026-10-16T15:28:31.559Z,dd3e1116
+usr_84b39fac7e,sara.park.dd3e11166@example.com,Password@123,$2b$10$dW7J.eleroSbBl2fNi1Wl.qXAxhPEA14YYt440x9PCW.TJPIM4Cle,Sara,Park,dealer,Lisbon,2026-10-16T15:28:31.559Z,dd3e1116
+usr_273d067ee3,noah.khan.dd3e11167@example.com,Password@123,$2b$10$wdB1oQ8IrXlzPXPyLPxEfuZsgL.C57zQs.ve7CTXSL0m.SxMdINN6,Noah,Khan,customer,Austin,2026-10-16T15:28:31.559Z,dd3e1116

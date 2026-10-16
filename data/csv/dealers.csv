@@ -1,0 +1,6 @@
+id,name,code,region,status,contact_email,created_at,seed_run
+dlr_162d26f653,Vertex Distributors DD3E-1,DLR-DD3E1116-01,Austin,inactive,dealer1.dd3e1116@example.com,2026-10-16T15:28:31.559Z,dd3e1116
+dlr_2987e9a9d4,Atlas Retail Hub DD3E-2,DLR-DD3E1116-02,Lisbon,active,dealer2.dd3e1116@example.com,2026-10-16T15:28:31.559Z,dd3e1116
+dlr_2d58c003ca,Prime Dealer Group DD3E-3,DLR-DD3E1116-03,Berlin,active,dealer3.dd3e1116@example.com,2026-10-16T15:28:31.559Z,dd3e1116
+dlr_f55127070b,Harbor Goods DD3E-4,DLR-DD3E1116-04,Berlin,active,dealer4.dd3e1116@example.com,2026-10-16T15:28:31.559Z,dd3e1116
+dlr_8b87b4266f,Prime Dealer Group DD3E-5,DLR-DD3E1116-05,Dhaka,active,dealer5.dd3e1116@example.com,2026-10-16T15:28:31.559Z,dd3e1116

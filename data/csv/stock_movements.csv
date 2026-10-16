@@ -1,0 +1,12 @@
+id,product_id,dealer_id,type,direction,quantity,stock_before,stock_after,reference_id,reference_type,reason,performed_by,created_at,seed_run
+mov_2c88ec15f2,prd_25989f1503,dlr_f55127070b,buy,out,8,74,66,ord_9ebd43018a,order,buy seed movement,usr_58e4538300,2026-10-16T15:28:31.559Z,dd3e1116
+mov_e74e0b66c4,prd_68a4cd9d88,dlr_2d58c003ca,transfer_out,out,2,49,47,ord_6f7b4f2899,order,transfer_out seed movement,usr_58e4538300,2026-10-16T15:28:31.559Z,dd3e1116
+mov_a1bf4780c3,prd_f5296037e7,dlr_162d26f653,stock_out,out,10,110,100,ord_e9370d82a9,order,stock_out seed movement,usr_58e4538300,2026-10-16T15:28:31.559Z,dd3e1116
+mov_fb21cea125,prd_f9c5d99235,dlr_f55127070b,stock_add,in,10,180,190,ord_d3821faa24,order,stock_add seed movement,usr_58e4538300,2026-10-16T15:28:31.559Z,dd3e1116
+mov_db6387f053,prd_87da062537,dlr_2987e9a9d4,transfer_out,out,5,200,195,ord_a38fe43e2c,order,transfer_out seed movement,usr_58e4538300,2026-10-16T15:28:31.559Z,dd3e1116
+mov_4c4fd06763,prd_68a4cd9d88,dlr_2d58c003ca,adjustment,out,5,49,44,ord_dfacf62028,order,adjustment seed movement,usr_58e4538300,2026-10-16T15:28:31.559Z,dd3e1116
+mov_6d94902f11,prd_f9c5d99235,dlr_f55127070b,stock_out,out,6,180,174,ord_6bc5f3e900,order,stock_out seed movement,usr_58e4538300,2026-10-16T15:28:31.559Z,dd3e1116
+mov_2db613873e,prd_e5ce106ac5,dlr_2d58c003ca,transfer_in,in,7,144,151,ord_a24b9fa565,order,transfer_in seed movement,usr_58e4538300,2026-10-16T15:28:31.559Z,dd3e1116
+mov_9f4136dc95,prd_f5296037e7,dlr_162d26f653,transfer_out,out,2,110,108,ord_9ebd43018a,order,transfer_out seed movement,usr_58e4538300,2026-10-16T15:28:31.559Z,dd3e1116
+mov_ec9fec9ae1,prd_e5ce106ac5,dlr_2d58c003ca,transfer_out,out,7,144,137,ord_6f7b4f2899,order,transfer_out seed movement,usr_58e4538300,2026-10-16T15:28:31.559Z,dd3e1116
+mov_89dadeb530,prd_2dabfc1653,dlr_162d26f653,stock_add,in,1,25,26,ord_e9370d82a9,order,stock_add seed movement,usr_58e4538300,2026-10-16T15:28:31.559Z,dd3e1116

@@ -1,0 +1,98 @@
+[
+  {
+    "id": "usr_58e4538300",
+    "email": "superadmin@commerce.local",
+    "password": "Super@123",
+    "password_hash": "$2b$10$DqLFkYrD1TfRKu4o9EbvZ.3gqsXxqF/lxIGinByMRc6W2X.v5pEmi",
+    "first_name": "Super",
+    "last_name": "Admin",
+    "role": "super_admin",
+    "city": "Austin",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "usr_4e92a1e47a",
+    "email": "admin@commerce.local",
+    "password": "Admin@123",
+    "password_hash": "$2b$10$Kaf/5mQiY0HeAiz.mhOISu0JDvc35XMgFh21uU6sBfY/4V8tFvH6.",
+    "first_name": "Admin",
+    "last_name": "User",
+    "role": "admin",
+    "city": "Dhaka",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "usr_68a8b94d23",
+    "email": "customer@commerce.local",
+    "password": "Password@123",
+    "password_hash": "$2b$10$gHkkXAe2ymKB6C.N5XbJZ.LOR1aoXHiAZ9OQVAvriwkSF71.K9FFS",
+    "first_name": "Customer",
+    "last_name": "Demo",
+    "role": "customer",
+    "city": "Austin",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "usr_061ffca331",
+    "email": "dealer@commerce.local",
+    "password": "Password@123",
+    "password_hash": "$2b$10$wPxCmUdhNSVvmFL32Rkxx.XVj8aioiYle7N7UWEx5wS1CUfVqLYwm",
+    "first_name": "Dealer",
+    "last_name": "Demo",
+    "role": "dealer",
+    "city": "Seoul",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "usr_ff312a0c5b",
+    "email": "kai.silva.dd3e11164@example.com",
+    "password": "Password@123",
+    "password_hash": "$2b$10$8ezPSijHPlNtlFVjrzfKH.fSCjLl3YIsrTmYNM.HFtZy7aKFtdnJ.",
+    "first_name": "Kai",
+    "last_name": "Silva",
+    "role": "customer",
+    "city": "Lisbon",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "usr_4a9ac570a4",
+    "email": "kai.brooks.dd3e11165@example.com",
+    "password": "Password@123",
+    "password_hash": "$2b$10$qVSL.qB0skRPIMnvDbnFUe3pEjwjpk1R4/7NDSm2G0JyBzp2Vr6O.",
+    "first_name": "Kai",
+    "last_name": "Brooks",
+    "role": "customer",
+    "city": "Berlin",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "usr_84b39fac7e",
+    "email": "sara.park.dd3e11166@example.com",
+    "password": "Password@123",
+    "password_hash": "$2b$10$dW7J.eleroSbBl2fNi1Wl.qXAxhPEA14YYt440x9PCW.TJPIM4Cle",
+    "first_name": "Sara",
+    "last_name": "Park",
+    "role": "dealer",
+    "city": "Lisbon",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "usr_273d067ee3",
+    "email": "noah.khan.dd3e11167@example.com",
+    "password": "Password@123",
+    "password_hash": "$2b$10$wdB1oQ8IrXlzPXPyLPxEfuZsgL.C57zQs.ve7CTXSL0m.SxMdINN6",
+    "first_name": "Noah",
+    "last_name": "Khan",
+    "role": "customer",
+    "city": "Austin",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  }
+]

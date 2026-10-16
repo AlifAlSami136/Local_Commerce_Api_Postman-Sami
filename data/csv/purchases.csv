@@ -1,0 +1,7 @@
+id,user_id,product_id,payment_id,dealer_id,quantity,unit_price,total_amount,currency,confirmation_code,status,confirmed_at,seed_run
+pur_2fbe6410a7,usr_ff312a0c5b,prd_68a4cd9d88,pay_ef8ac334f5,dlr_2d58c003ca,3,72.25,216.75,USD,CNF-DD3E1116-0001,cancelled,2026-10-16T15:28:31.559Z,dd3e1116
+pur_3d63708b60,usr_ff312a0c5b,prd_ef721f6931,pay_2a3d222c21,dlr_f55127070b,2,79.97,159.94,USD,CNF-DD3E1116-0002,processing,2026-10-16T15:28:31.559Z,dd3e1116
+pur_8872b3714f,usr_68a8b94d23,prd_f5296037e7,pay_03e4983a81,dlr_162d26f653,1,41.62,41.62,USD,CNF-DD3E1116-0003,confirmed,2026-10-16T15:28:31.559Z,dd3e1116
+pur_c371e28716,usr_273d067ee3,prd_ef721f6931,pay_1da307b9a4,dlr_f55127070b,2,79.97,159.94,USD,CNF-DD3E1116-0004,shipped,2026-10-16T15:28:31.559Z,dd3e1116
+pur_ede67f0ae2,usr_68a8b94d23,prd_2dabfc1653,pay_774b3b6ff8,dlr_162d26f653,3,44.5,133.5,USD,CNF-DD3E1116-0005,cancelled,2026-10-16T15:28:31.559Z,dd3e1116
+pur_c83e015596,usr_273d067ee3,prd_87da062537,pay_a38efccd91,dlr_2987e9a9d4,2,90.32,180.64,USD,CNF-DD3E1116-0006,confirmed,2026-10-16T15:28:31.559Z,dd3e1116

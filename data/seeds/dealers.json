@@ -1,0 +1,52 @@
+[
+  {
+    "id": "dlr_162d26f653",
+    "name": "Vertex Distributors DD3E-1",
+    "code": "DLR-DD3E1116-01",
+    "region": "Austin",
+    "status": "inactive",
+    "contact_email": "dealer1.dd3e1116@example.com",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "dlr_2987e9a9d4",
+    "name": "Atlas Retail Hub DD3E-2",
+    "code": "DLR-DD3E1116-02",
+    "region": "Lisbon",
+    "status": "active",
+    "contact_email": "dealer2.dd3e1116@example.com",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "dlr_2d58c003ca",
+    "name": "Prime Dealer Group DD3E-3",
+    "code": "DLR-DD3E1116-03",
+    "region": "Berlin",
+    "status": "active",
+    "contact_email": "dealer3.dd3e1116@example.com",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "dlr_f55127070b",
+    "name": "Harbor Goods DD3E-4",
+    "code": "DLR-DD3E1116-04",
+    "region": "Berlin",
+    "status": "active",
+    "contact_email": "dealer4.dd3e1116@example.com",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "dlr_8b87b4266f",
+    "name": "Prime Dealer Group DD3E-5",
+    "code": "DLR-DD3E1116-05",
+    "region": "Dhaka",
+    "status": "active",
+    "contact_email": "dealer5.dd3e1116@example.com",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  }
+]

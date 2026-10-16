@@ -1,0 +1,123 @@
+[
+  {
+    "id": "pdt_1a4aa6184f",
+    "product_id": "prd_e5ce106ac5",
+    "description": "Wireless Mouse DD31 seeded for local API testing (run dd3e1116).",
+    "warranty_months": 12,
+    "weight_kg": 4.96,
+    "color": "silver",
+    "dimensions": "10x12x2 cm",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "pdt_5e8589eaab",
+    "product_id": "prd_ebd8a15bf6",
+    "description": "Desk Mat DD32 seeded for local API testing (run dd3e1116).",
+    "warranty_months": 6,
+    "weight_kg": 1.72,
+    "color": "black",
+    "dimensions": "20x8x6 cm",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "pdt_e684a9ebce",
+    "product_id": "prd_e9c0e8d2eb",
+    "description": "Desk Mat DD33 seeded for local API testing (run dd3e1116).",
+    "warranty_months": 12,
+    "weight_kg": 0.55,
+    "color": "white",
+    "dimensions": "15x8x6 cm",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "pdt_b86804acb7",
+    "product_id": "prd_f9c5d99235",
+    "description": "Mechanical Keyboard DD34 seeded for local API testing (run dd3e1116).",
+    "warranty_months": 36,
+    "weight_kg": 3.28,
+    "color": "red",
+    "dimensions": "20x8x2 cm",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "pdt_fef5b83624",
+    "product_id": "prd_f5296037e7",
+    "description": "Portable SSD DD35 seeded for local API testing (run dd3e1116).",
+    "warranty_months": 36,
+    "weight_kg": 4.12,
+    "color": "silver",
+    "dimensions": "10x18x4 cm",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "pdt_624ad0c460",
+    "product_id": "prd_87da062537",
+    "description": "Portable SSD DD36 seeded for local API testing (run dd3e1116).",
+    "warranty_months": 6,
+    "weight_kg": 1.54,
+    "color": "red",
+    "dimensions": "20x8x4 cm",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "pdt_f6e18a0cea",
+    "product_id": "prd_c6f3a83752",
+    "description": "USB-C Hub DD37 seeded for local API testing (run dd3e1116).",
+    "warranty_months": 6,
+    "weight_kg": 2.31,
+    "color": "black",
+    "dimensions": "15x12x2 cm",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "pdt_7a4abf9e76",
+    "product_id": "prd_ef721f6931",
+    "description": "Portable SSD DD38 seeded for local API testing (run dd3e1116).",
+    "warranty_months": 36,
+    "weight_kg": 4.94,
+    "color": "white",
+    "dimensions": "20x18x6 cm",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "pdt_ff5efb5aba",
+    "product_id": "prd_68a4cd9d88",
+    "description": "Portable SSD DD39 seeded for local API testing (run dd3e1116).",
+    "warranty_months": 6,
+    "weight_kg": 2.45,
+    "color": "black",
+    "dimensions": "15x18x6 cm",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "pdt_ae32ee1dcd",
+    "product_id": "prd_2dabfc1653",
+    "description": "Wireless Mouse DD310 seeded for local API testing (run dd3e1116).",
+    "warranty_months": 12,
+    "weight_kg": 4.42,
+    "color": "blue",
+    "dimensions": "20x12x2 cm",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "pdt_33042607e5",
+    "product_id": "prd_25989f1503",
+    "description": "Desk Mat DD311 seeded for local API testing (run dd3e1116).",
+    "warranty_months": 36,
+    "weight_kg": 2.55,
+    "color": "silver",
+    "dimensions": "15x18x6 cm",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  }
+]

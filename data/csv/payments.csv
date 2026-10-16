@@ -1,0 +1,7 @@
+id,user_id,amount,currency,method,status,reference,created_at,seed_run
+pay_ef8ac334f5,usr_4a9ac570a4,235.31,USD,bank_transfer,authorized,REF-DD3E1116-0001,2026-10-16T15:28:31.559Z,dd3e1116
+pay_2a3d222c21,usr_ff312a0c5b,755.67,USD,bank_transfer,captured,REF-DD3E1116-0002,2026-10-16T15:28:31.559Z,dd3e1116
+pay_03e4983a81,usr_4a9ac570a4,359.81,USD,bank_transfer,pending,REF-DD3E1116-0003,2026-10-16T15:28:31.559Z,dd3e1116
+pay_1da307b9a4,usr_ff312a0c5b,733.51,USD,card,failed,REF-DD3E1116-0004,2026-10-16T15:28:31.559Z,dd3e1116
+pay_774b3b6ff8,usr_68a8b94d23,578.92,USD,wallet,failed,REF-DD3E1116-0005,2026-10-16T15:28:31.559Z,dd3e1116
+pay_a38efccd91,usr_68a8b94d23,240.6,USD,wallet,failed,REF-DD3E1116-0006,2026-10-16T15:28:31.559Z,dd3e1116

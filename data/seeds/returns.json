@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ret_2e98e71d04",
+    "order_id": "ord_e9370d82a9",
+    "user_id": "usr_68a8b94d23",
+    "product_id": "prd_e5ce106ac5",
+    "quantity": 2,
+    "refund_amount": 96.92,
+    "currency": "USD",
+    "reason": "defective",
+    "status": "rejected",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "ret_b489542b51",
+    "order_id": "ord_dfacf62028",
+    "user_id": "usr_ff312a0c5b",
+    "product_id": "prd_2dabfc1653",
+    "quantity": 2,
+    "refund_amount": 89,
+    "currency": "USD",
+    "reason": "damaged",
+    "status": "rejected",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  },
+  {
+    "id": "ret_c9b47974c8",
+    "order_id": "ord_6f7b4f2899",
+    "user_id": "usr_273d067ee3",
+    "product_id": "prd_e5ce106ac5",
+    "quantity": 1,
+    "refund_amount": 48.46,
+    "currency": "USD",
+    "reason": "customer_change_mind",
+    "status": "refunded",
+    "created_at": "2026-10-16T15:28:31.559Z",
+    "seed_run": "dd3e1116"
+  }
+]

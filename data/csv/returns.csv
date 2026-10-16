@@ -1,0 +1,4 @@
+id,order_id,user_id,product_id,quantity,refund_amount,currency,reason,status,created_at,seed_run
+ret_2e98e71d04,ord_e9370d82a9,usr_68a8b94d23,prd_e5ce106ac5,2,96.92,USD,defective,rejected,2026-10-16T15:28:31.559Z,dd3e1116
+ret_b489542b51,ord_dfacf62028,usr_ff312a0c5b,prd_2dabfc1653,2,89,USD,damaged,rejected,2026-10-16T15:28:31.559Z,dd3e1116
+ret_c9b47974c8,ord_6f7b4f2899,usr_273d067ee3,prd_e5ce106ac5,1,48.46,USD,customer_change_mind,refunded,2026-10-16T15:28:31.559Z,dd3e1116
